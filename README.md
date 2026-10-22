@@ -19,11 +19,11 @@ An Excel-based dashboard that summarizes retail sales performance using key perf
 The main thing I learned was how to connect formula cells to KPI cards to make them dynamic. When new records are added to the Excel Table and formulas recalculate, the linked cards can display updated results automatically.
 
 ## Dashboard Preview
-![Retail Sales KPI Dashboard](retail-sales-kpi-dashboard.png)
+![Retail Sales KPI Dashboard](Retail Sales KPI Tracker.png)
 
 ## Files
-- `retail-sales-kpi-tracker.xlsx` — Excel workbook containing the KPI dashboard and raw data.
-- `retail-sales-kpi-dashboard.png` — Dashboard screenshot.
+- `Super_store_data.xlsx` — Excel workbook containing the KPI dashboard and raw data.
+- `Retail Sales KPI Tracker.png` — Dashboard screenshot.
 
 ## Purpose
 This project demonstrates practical skills in Excel-based data analysis, KPI tracking, and business reporting.
